@@ -1,4 +1,16 @@
 class Casino {
+    constructor (name,){
+        this.name = name;
+        this.timesPlayed = 0;
+        this.winnings = 0;
+        this.isFakeCoin = isFakeCoin
+    }
+    
+    playgame(betAmount){
+        console.log("Betting" + betAmount)
+        this.timesPlayed += 1;
+        if(Math.)
+    }
     // Write code here
 };
 
